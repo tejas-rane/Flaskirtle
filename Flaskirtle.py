@@ -20,5 +20,9 @@ def articles():
     return render_template('articles.html', articles=Articles)
 
 
+@app.route('/articleDetail/<string:id>')
+def articleDetail(id):
+    return render_template('articleDetail.html', id=id)
+
 if __name__ == '__main__':
     app.run(debug=True)
