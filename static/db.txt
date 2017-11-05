@@ -1,0 +1,15 @@
+mysql> desc users
+    -> ;
++---------------+--------------+------+-----+-------------------+----------------+
+| Field         | Type         | Null | Key | Default           | Extra          |
++---------------+--------------+------+-----+-------------------+----------------+
+| id            | int(11)      | NO   | PRI | NULL              | auto_increment |
+| name          | varchar(100) | YES  |     | NULL              |                |
+| email         | varchar(100) | YES  |     | NULL              |                |
+| username      | varchar(30)  | YES  |     | NULL              |                |
+| password      | varchar(100) | YES  |     | NULL              |                |
+| register_date | timestamp    | NO   |     | CURRENT_TIMESTAMP |                |
++---------------+--------------+------+-----+-------------------+----------------+
+6 rows in set (0.03 sec)
+
+mysql>
