@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c638848-9d87-4a9e-9d13-d6284efd79cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Flaskirtle.iml" afterPath="$PROJECT_DIR$/.idea/Flaskirtle.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flaskirtle.py" afterPath="$PROJECT_DIR$/Flaskirtle.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,12 +28,13 @@
       <file leaf-file-name="Flaskirtle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Flaskirtle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+            <state relative-caret-position="502">
+              <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
               <folding>
                 <element signature="e#0#93#0" expanded="true" />
-                <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-                <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+                <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+                <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+                <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
               </folding>
             </state>
           </provider>
@@ -104,7 +103,7 @@
       <file leaf-file-name="_navbar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="256">
               <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding />
             </state>
@@ -168,10 +167,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1056" />
+    <option name="x" value="-10" />
+    <option name="width" value="1323" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -215,6 +213,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flaskirtle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flaskirtle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -524,17 +540,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-10" y="0" width="1323" height="1044" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19783784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12591389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25405404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2643819" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26832297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -591,8 +607,9 @@
           <caret line="54" column="48" lean-forward="false" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -671,8 +688,9 @@
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -735,8 +753,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -799,8 +818,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -856,8 +876,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -890,22 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/include/formhelpers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -926,14 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/include/_messges.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -962,14 +959,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/include/_messges.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flaskirtle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="502">
+          <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1509848775605" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1509848775605" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
