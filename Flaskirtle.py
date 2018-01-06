@@ -98,16 +98,24 @@ def login():
             # compare password
             if sha256_crypt.verify(password_candidate, password):
                 app.logger.info('password matched')
+                session['logged_in']= True
+                session['username']=username
+                flash('You are now logged in','success')
+                return redirect(url_for('dashboard'))
             else:
                 app.logger.info('password not matched')
                 error = 'Invalid login'
-                return render_template('login.html', error)
+                return render_template('login.html', error=error)
+            cur.close
         else:
             app.logger.info('NO user')
             error = 'username not found'
-            return render_template('login.html',error)
+            return render_template('login.html',error=error)
     return render_template('login.html')
 
+@app.route('/dashboard')
+def dashboard():
+    return render_template('dashboard.html')
 if __name__ == '__main__':
     app.secret_key = 'secret_key123'
     app.run(debug=True)
