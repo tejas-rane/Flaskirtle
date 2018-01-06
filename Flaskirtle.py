@@ -85,7 +85,7 @@ def login():
     if request.method == 'POST':
         #get form fields
         username = request.form['username']
-        password_cadidate = request.form['password']
+        password_candidate = request.form['password']
 
         #cur to verify
         cur = mysql.connection.cursor()
@@ -96,7 +96,7 @@ def login():
             data = cur.fetchone()
             password = data['password']
             # compare password
-            if sha256_crypt.verify(password_cadidate, password):
+            if sha256_crypt.verify(password_candidate, password):
                 app.logger.info('password matched')
         else:
             app.logger.info('NO user')

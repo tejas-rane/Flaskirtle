@@ -25,56 +25,26 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Flaskirtle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Flaskirtle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flaskirtle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+            <state relative-caret-position="177">
+              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding>
                 <element signature="e#0#93#0" expanded="true" />
-                <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-                <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-                <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+                <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+                <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+                <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../YTG/YTG/settings.py">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../YTG/YTG/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_messges.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/include/_messges.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/db.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="275">
+              <caret line="11" column="107" lean-forward="false" selection-start-line="11" selection-start-column="107" selection-end-line="11" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -83,28 +53,8 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formhelpers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/include/formhelpers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_navbar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="365">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -115,16 +65,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
               <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -154,9 +94,10 @@
         <option value="$PROJECT_DIR$/templates/include/_messges.html" />
         <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/templates/include/_navbar.html" />
-        <option value="$PROJECT_DIR$/templates/register.html" />
         <option value="$PROJECT_DIR$/templates/include/formhelpers.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
         <option value="$PROJECT_DIR$/Flaskirtle.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
       </list>
     </option>
   </component>
@@ -168,7 +109,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1323" />
+    <option name="width" value="1924" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -540,10 +481,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1323" height="1044" extended-state="0" />
+    <frame x="-10" y="0" width="1924" height="1044" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12591389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08460699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -577,14 +518,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -607,9 +540,9 @@
           <caret line="54" column="48" lean-forward="false" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -688,9 +621,9 @@
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -753,9 +686,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -818,9 +751,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -876,9 +809,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -915,14 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -967,14 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/include/_navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -983,16 +900,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flaskirtle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+        <state relative-caret-position="177">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding>
             <element signature="e#0#93#0" expanded="true" />
-            <marker date="1515216312611" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
-            <marker date="1515216312611" expanded="true" signature="2747:2786" ph="SELECT * FRO... users" />
+            <marker date="1515216843145" expanded="true" signature="1888:1958" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="1981:2051" ph="INSERT INTO users... " />
+            <marker date="1515216843145" expanded="true" signature="2748:2787" ph="SELECT * FRO... users" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="107" lean-forward="false" selection-start-line="11" selection-start-column="107" selection-end-line="11" selection-end-column="107" />
+          <folding />
         </state>
       </provider>
     </entry>
