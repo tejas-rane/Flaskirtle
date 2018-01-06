@@ -3,6 +3,7 @@ from data import Articles
 from flask_mysqldb import MySQL
 from wtforms import Form, StringField, TextAreaField, PasswordField, validators
 from passlib.hash import sha256_crypt
+from functools import wraps
 
 app = Flask(__name__)
 
@@ -79,6 +80,7 @@ def register():
         #return render_template('register.html')
     return render_template('register.html', form=form)
 
+
 #user login
 @app.route('/login',methods=['GET', 'POST'])
 def login():
@@ -106,12 +108,24 @@ def login():
                 app.logger.info('password not matched')
                 error = 'Invalid login'
                 return render_template('login.html', error=error)
-            cur.close
+            cur.close()
         else:
             app.logger.info('NO user')
             error = 'username not found'
             return render_template('login.html',error=error)
     return render_template('login.html')
+
+#check if user is logged in
+def is_logged_in(f):
+    @wraps(f)
+    def wrap(*args, **kwargs):
+        if 'logged_in' in session:
+            return f(*args, **kwargs)
+        else:
+            flash('Unauthorized, please login', 'danger')
+            return redirect(url_for('login'))
+    return wrap
+
 
 @app.route('/logout')
 def logout():
@@ -121,6 +135,7 @@ def logout():
 
 
 @app.route('/dashboard')
+@is_logged_in
 def dashboard():
     return render_template('dashboard.html')
 if __name__ == '__main__':
